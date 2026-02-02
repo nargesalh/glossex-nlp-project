@@ -1,0 +1,6 @@
+education
+school
+students
+learning
+teaching
+study
